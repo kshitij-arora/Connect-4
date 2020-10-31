@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Connect 4</string>
+    <string name="restart">RESTART</string>
+    <string name="start_again">START AGAIN!</string>
+</resources>
